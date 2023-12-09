@@ -1,0 +1,10 @@
+#pragma once
+
+#define WIFI_SSID1     ""
+#define WIFI_PASSWORD1 ""
+
+#define WIFI_SSID2     """"
+#define WIFI_PASSWORD2 ""
+
+#define WIFI_SSID3     ""
+#define WIFI_PASSWORD3 ""
